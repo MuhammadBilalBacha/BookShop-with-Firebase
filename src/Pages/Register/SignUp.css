@@ -1,0 +1,45 @@
+.signup {
+    background-color: rgb(148, 79, 37);
+    color: white;
+    max-width: 100vw;
+    max-height: 100vh;
+}
+.user {
+    height: 3rem;
+}
+.myForm {
+    /* background-color: rgb(15, 15, 55); */
+    color: white;
+    box-shadow: 10px 10px 5px 11px rgba(0, 0, 0, 0.75);
+        -webkit-box-shadow: 10px 10px 5px 11px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 10px 10px 5px 11px rgba(0, 0, 0, 0.75);
+}
+.myForm input {
+    background-color: rgb(94 30 12);
+    border: 2px solid rgb(94 30 12);
+    border-radius: 4px;
+    color: rgb(138, 138, 138);
+}
+.error {
+    color: rgb(255, 0, 0);
+    /* padding-block: 2rem; */
+    background-color: antiquewhite;
+    padding-left: 10px;
+    font-size: small;
+}
+.myBtn {
+    background-color: rgb(52, 28, 28);
+    border-radius: 4px;
+    border: none;
+    padding-block: 7px;
+    /* margin-inline: 2rem;
+    margin-right: 2rem; */
+}
+.icon {
+    border-radius: 50%;
+    background-color: none;
+
+}
+.myBtn:hover {
+    background-color:rgb(113, 61, 28);
+}

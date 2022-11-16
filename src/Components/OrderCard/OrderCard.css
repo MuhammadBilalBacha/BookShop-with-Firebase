@@ -1,0 +1,18 @@
+.my-card {
+    background-color: rgb(red, green, blue);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.order {
+    border-bottom: 5px solid rgb(148, 79, 37);
+    border-radius: 5px;
+}
+.orderTitle {
+    color: white;
+    padding-inline: 5rem;
+    border: 1px solid rgb(148, 79, 37);
+    background-color: rgb(148, 79, 37);
+    border-radius: 4px;
+    
+}

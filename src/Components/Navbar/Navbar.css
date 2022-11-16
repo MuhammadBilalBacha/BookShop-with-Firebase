@@ -1,0 +1,43 @@
+.mynavbar {
+    background-color:rgb(148, 79, 37);
+    color: antiquewhite;
+}
+.myAllLinks a {
+    font-weight: 700;
+    margin-inline: 2rem;
+    color: antiquewhite;
+    border-radius: 4px;
+    padding-inline: 15px;
+
+}
+.myvuttton {
+    margin-top: 5rem;
+}
+.mybtn {
+    border: 2px solid rgb(148, 79, 37);
+    background-color: rgb(148, 79, 37);
+    border-radius: 6px;
+}
+.khan {
+    background-color: rgb(148, 79, 37);
+    border-radius: 4px;
+}
+.myAllLinks a:hover {
+    background-color: rgb(89, 48, 22);
+    color: whitesmoke;
+
+}
+.mycontainer {
+    border-radius: 20px;
+}
+.myAllLinks button {
+    border: none;
+    background-color: none;
+    color: white;
+    font-weight: 650;
+
+
+}
+.navbarremove {
+    margin-bottom: 8rem;
+}
